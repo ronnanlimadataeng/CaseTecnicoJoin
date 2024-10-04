@@ -9,11 +9,11 @@ O case envolve a criação de um diagrama de entidade-relacionamento (ER), a ing
 
 ### Banco de Dados Utilizado
 
-- **Host**: `psql-mock-database-cloud.postgres.database.azure.com`
-- **Banco de Dados**: `ecom1692155331663giqokzaqmuqlogbu`
-- **Porta**: `5432`
-- **Usuário**: `eolowynayhvayxbhluzaqxfp@psql-mock-database-cloud`
-- **Senha**: `hdzvzutlssuozdonhflhwyjm`
+- **Host**: `{Host}`
+- **Banco de Dados**: `{BancodeDados}`
+- **Porta**: `{Porta}`
+- **Usuário**: `{Usuário}`
+- **Senha**: `{Senha}`
 
 ## Arquivos e Artefatos
 
