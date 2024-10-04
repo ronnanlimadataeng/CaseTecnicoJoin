@@ -33,7 +33,7 @@ Os dados do banco de dados **Ecommerce** foram ingeridos e convertidos para o fo
 
 Abaixo está o diagrama de entidade-relacionamento (ER) do banco de dados **Ecommerce**, que foi construído a partir da análise das tabelas. Note que, devido à falta de informações explícitas sobre chaves primárias e estrangeiras, os relacionamentos foram inferidos com base nos nomes das colunas.
 
-![Proposta de Diagrama ER](xxxx.png)
+![Proposta de Diagrama ER](https://github.com/ronnanlimadataeng/CaseTecnicoJoin/blob/main/Proposta%20de%20Diagrama%20ER.png.png)
 
 ## Consultas e Respostas
 
